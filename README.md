@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe 4 X 4 Grid.
 ![](./readmescreenshots/gamePlay.gif)
 
 ----
