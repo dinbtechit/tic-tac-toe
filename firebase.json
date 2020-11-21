@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "tictactoe-game-play",
     "public": "dist/tic-tac-toe",
     "ignore": [
       "firebase.json",
