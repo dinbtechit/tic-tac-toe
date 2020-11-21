@@ -1,7 +1,7 @@
 # TicTacToe 4 X 4 Grid.
-| | |
-|---|---|
-|Check your the game   |https://tictactoe-game-play.web.app/|
+
+Check your the game >>> https://tictactoe-game-play.web.app/
+
 ![](./readmescreenshots/gamePlay.gif)
 
 ----
